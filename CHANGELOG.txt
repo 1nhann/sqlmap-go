@@ -1,0 +1,5 @@
+# v1.0
+
+SHA256 (sqlmap-go-darwin-arm64) = 72ece5842c576cb11b15bb723b153100b91a22e614139aed71120093fc15d48a
+SHA256 (sqlmap-go-linux-amd64) = 202eb7356774744289fc82832ad3f8dc819fc35d0b4fbbf19ce79853ac5c2ddf
+SHA256 (sqlmap-go-windows-amd64.exe) = 0f576ee1eab4e149d77803961db364c7c850e2e5d57ef406e55d9806c7c9d8bc
